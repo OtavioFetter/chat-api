@@ -1,5 +1,5 @@
 {
-  "name": "chatapi",
+  "name": "chat-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JeanRauta/chatapi.git"
+    "url": "https://github.com/OtavioFetter/chat-api.git"
   },
-  "author": "Jean",
+  "author": "Otávio Fetter Ghesla",
   "license": "ISC",
   
   "dependencies": {
